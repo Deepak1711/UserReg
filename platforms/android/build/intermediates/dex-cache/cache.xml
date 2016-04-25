@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/deepak/git/mobapp/platforms/android/libs/nativescript.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="72b585c3baffa7cb9fbecc8dd37cd89a127f17f5">
+        <dex dex="/home/deepak/git/mobapp/platforms/android/build/intermediates/pre-dexed/debug/nativescript_8f95be3ea60cf61cc191bd67d0e4c4cccb75830c.jar" />
+    </item>
+    <item
+        jar="/home/deepak/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/deepak/git/mobapp/platforms/android/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_f21d37939463d99de618eab193ca584a82a9889c.jar" />
+    </item>
+
+</items>

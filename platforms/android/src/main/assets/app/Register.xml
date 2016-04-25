@@ -1,0 +1,10 @@
+<page>
+	<StackLayout orientation="vertical">
+    <TextField hint="Name" />
+    <TextField hint="Phone no" />
+    <TextField hint="Email" />
+	<TextField hint="Username" autocorrect="false" />
+	<TextField hint="Password" secure="true" />
+	<Button text="Submit" tap="onSubmit"/>
+	</StackLayout>
+</page>

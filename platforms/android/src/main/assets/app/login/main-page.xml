@@ -1,0 +1,9 @@
+<page loaded="deepak">
+<StackLayout orientation="vertical">
+	<Image src="https://www.nativescript.org/images/default-source/landingpages/logo.png" height="150" width="150" horizontalAlignment="center"/>
+	<TextField id="email" hint="Email Address" autocorrect="false" text="{{ email }}"/>
+	<TextField hint="Password" secure="true" text="{{ password }}"/>
+	<Button text="Sign In" tap="Onsign" />
+	<Button text="Sign Up" tap="Registering" />
+</StackLayout>
+</page>
